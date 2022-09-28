@@ -22,5 +22,5 @@ void PrintToN(int n)
   }
 }
 
-int n = ReadNumber("Введите число: ");
-PrintToN(n);
+int n = ReadNumber("Введите число N: ");
+PrintToN(n); 
